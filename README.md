@@ -38,29 +38,35 @@ PersonService обращяется за даннным в репозиторий
 Примеры запросов:
 
 GET запрос поиск по id:
+
 ![image](https://user-images.githubusercontent.com/67002782/184471252-ffc3f466-5fc8-4ee7-878d-12edc7912968.png)
 
+
 GET запрос поиск по почте:
+
 ![image](https://user-images.githubusercontent.com/67002782/184471295-4499d575-e003-4543-9b4f-28f0346835c3.png)
 
+
 GET запрос фильтрация по имени:
+
 ![image](https://user-images.githubusercontent.com/67002782/184471349-f8c5bac5-0e74-4d33-bce7-4cb3d0ab577f.png)
 
+
 GET запрос фильтрация по фамилии:
+
 ![image](https://user-images.githubusercontent.com/67002782/184471358-4b760565-4695-4e01-9469-a9f75b265e6d.png)
 
+
 POST запрос добавление записи:
+
 ![image](https://user-images.githubusercontent.com/67002782/184471462-c7d519d1-ca64-4c42-bd01-971474afb2b9.png)
 
+
 PUT запрос на изменение записи:
+
 ![image](https://user-images.githubusercontent.com/67002782/184471234-2176b2b1-948c-4ce7-b594-915cd4e3c465.png)
 
+
 GET запрос на получение списка всех записей:
+
 ![image](https://user-images.githubusercontent.com/67002782/184471506-4acd87b7-0b74-4d11-8ac8-18b6733386fe.png)
-
-DELETE запрос на удаление записи:
-![image](https://user-images.githubusercontent.com/67002782/184471546-86e181e9-a1e1-4fa2-adff-35b8af8d0502.png)
-![image](https://user-images.githubusercontent.com/67002782/184471559-88f5fbad-72a8-4200-a373-098ae468009e.png)
-
-
-
